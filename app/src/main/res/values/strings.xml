@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wheather</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Date">07 June, 2021</string>
+    <string name="City_name">Dera Ghazi khan</string>
+    <string name="Temperature">32°</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="feeling">Feeling</string>
+    <string name="wind_value">3.1 mph</string>
+    <string name="humidity_value">70%</string>
+    <string name="feeling_value">32°</string>
+    <string name="current_weather_info">Partly Cloudy</string>
+</resources>

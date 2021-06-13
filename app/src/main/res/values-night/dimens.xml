@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_bar_size">40dp</dimen>
+    <dimen name="extra_strings_feel_humidity_size">wrap_content</dimen>
+    <dimen name="margin_left_for_centre_things">90dp</dimen>
+</resources>

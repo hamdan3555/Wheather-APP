@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_blured">#AEB194</color>
+    <color name="inner_card">#4F2A8F</color>
+    <color name="temperature_show">#D8DCDD</color>
+    <color name="current_weather_info">#F4EFEF</color>
+
+</resources>
